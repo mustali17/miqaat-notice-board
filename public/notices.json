@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Gates open at 6 pm",
+      "message": "The main gate opens at 6 pm for all registered participants. Please keep your pass ready.",
+      "priority": "high",
+      "publishedAt": "2026-10-27T10:00:00Z",
+      "link": "https://example.com/venue-map"
+    },
+    {
+      "id": 2,
+      "title": "Parking moved to Lot B",
+      "message": "Lot A is closed for maintenance. Use Lot B on the east side this weekend.",
+      "priority": "normal",
+      "publishedAt": "2026-10-26T09:30:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Volunteer briefing at 4 pm",
+      "message": "All volunteers please gather at the help desk for a short briefing before the gates open.",
+      "priority": "normal",
+      "publishedAt": "2026-10-25T05:45:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Lost and found desk",
+      "message": "Lost items can be collected from the help desk near Gate 2.",
+      "priority": "low",
+      "publishedAt": "2026-10-24T15:00:00Z"
+    }
+  ]
+}
